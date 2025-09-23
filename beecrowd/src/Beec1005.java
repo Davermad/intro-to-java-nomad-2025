@@ -1,7 +1,7 @@
 // Fifth task
 import java.util.Scanner;
 
-public class BEC_1005 {
+public class Beec1005 {
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
 

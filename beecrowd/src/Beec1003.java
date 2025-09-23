@@ -1,15 +1,15 @@
-// First task
+// Third task
 import java.util.Scanner;
 
-public class BEC_1001 {
+public class Beec1003 {
     public static void main (String args[]){
         Scanner scanner = new Scanner(System.in);
 
         int A = scanner.nextInt();
         int B = scanner.nextInt();
-        int X = A + B;
+        int SOMA = A + B;
 
-        System.out.println("X = " + X);
+        System.out.println("SOMA = " + SOMA);
         scanner.close();
     }
 }

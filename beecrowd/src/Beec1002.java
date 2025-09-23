@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class BEC_1002 {
+public class Beec1002 {
     public static void main (String args[]){
         Scanner scanner = new Scanner(System.in);
 

@@ -1,7 +1,7 @@
 // Fourth task
 import java.util.Scanner;
 
-public class BEC_1004 {
+public class Beec1004 {
     public static void main (String args[]){
         Scanner scanner = new Scanner(System.in);
 
