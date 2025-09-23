@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class Beec1005 {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         final double WEIGHT_A = 3.5;
